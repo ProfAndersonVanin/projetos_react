@@ -42,6 +42,8 @@ function Formulario(){
                     <input type="submit" value="Cadastrar" />                    
                 </div>
             </form>
+            <p>Nome: {nome}</p>
+            <p>Senha: {senha}</p>
         </div>
     )
 }
